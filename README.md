@@ -7,6 +7,8 @@ This game code is in html and java script
 Fun game!
 
 The unique game code
+Gaming is fun
+
 
 perfect time to start
 =======
