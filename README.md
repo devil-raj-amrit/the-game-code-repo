@@ -14,3 +14,6 @@ perfect time to start
 =======
 
 
+We can make mini games,
+using nothing but HTML and JavaScript.
+This repo includes code for mini games.
